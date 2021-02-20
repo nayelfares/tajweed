@@ -1,38 +1,38 @@
 {
   "stringTable": {
-    "0": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/armeabi-v7a",
-    "1": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DEffectExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fsigned-char -I/home/nayel/Desktop/Tajweed/app/./Superpowered -Oz -DNDEBUG -fPIC"
+    "0": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DEffectExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fsigned-char -I/home/nayel/StudioProjects/tajweed/app/./Superpowered -Oz -DNDEBUG -fPIC"
   },
   "buildFiles": [
-    "/home/nayel/Desktop/Tajweed/app/CMakeLists.txt",
+    "/home/nayel/StudioProjects/tajweed/app/CMakeLists.txt",
     "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
     "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake"
   ],
   "cleanCommands": [
-    "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/armeabi-v7a\" clean"
+    "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/armeabi-v7a\" clean"
   ],
-  "buildTargetsCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "EffectExample-Release-armeabi-v7a": {
-      "buildCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/armeabi-v7a\" EffectExample",
+      "buildCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/armeabi-v7a\" EffectExample",
       "buildType": "release",
       "toolchain": "1328120413",
       "abi": "armeabi-v7a",
       "artifactName": "EffectExample",
       "files": [
         {
-          "src": "/home/nayel/Desktop/Tajweed/app/src/main/cpp/EffectExample.cpp",
+          "src": "/home/nayel/StudioProjects/tajweed/app/src/main/cpp/EffectExample.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "/home/nayel/Desktop/Tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp",
+          "src": "/home/nayel/StudioProjects/tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "/home/nayel/Desktop/Tajweed/app/build/intermediates/cmake/release/obj/armeabi-v7a/libEffectExample.so",
+      "output": "/home/nayel/StudioProjects/tajweed/app/build/intermediates/cmake/release/obj/armeabi-v7a/libEffectExample.so",
       "runtimeFiles": []
     }
   },

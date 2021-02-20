@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/arm64-v8a",
-    "cmakeServerLogFile": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/arm64-v8a/cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "/home/nayel/Desktop/Tajweed/app/.cxx/cxx/release/arm64-v8a",
+    "cmakeArtifactsBaseFolder": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/arm64-v8a",
+    "cmakeServerLogFile": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/arm64-v8a/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/home/nayel/StudioProjects/tajweed/app/.cxx/cxx/release/arm64-v8a",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,13 +15,13 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/arm64-v8a",
+      "buildRoot": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/arm64-v8a",
       "cmakeToolchain": "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
       "cmakeExecutable": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
         {
           "name": "CMAKE_CXX_FLAGS",
-          "value": "-fsigned-char -I/home/nayel/Desktop/Tajweed/app/./Superpowered"
+          "value": "-fsigned-char -I/home/nayel/StudioProjects/tajweed/app/./Superpowered"
         },
         {
           "name": "CMAKE_C_FLAGS",
@@ -29,7 +29,7 @@
         },
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/prefab/arm64-v8a/prefab"
+          "value": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/prefab/arm64-v8a/prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -61,7 +61,7 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/home/nayel/Desktop/Tajweed/app/build/intermediates/cmake/release/obj/arm64-v8a"
+          "value": "/home/nayel/StudioProjects/tajweed/app/build/intermediates/cmake/release/obj/arm64-v8a"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -93,26 +93,26 @@
         },
         {
           "name": "PATH_TO_SUPERPOWERED:STRING",
-          "value": "/home/nayel/Desktop/Tajweed/app/./Superpowered"
+          "value": "/home/nayel/StudioProjects/tajweed/app/./Superpowered"
         }
       ]
     }
   },
-  "cxxBuildFolder": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/arm64-v8a",
+  "cxxBuildFolder": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/arm64-v8a",
   "info": {
     "abi": "ARM64_V8A",
     "bitness": 64,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/arm64-v8a",
+  "originalCxxBuildFolder": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/arm64-v8a",
   "variant": {
     "buildSystemArgumentList": [
       "-DANDROID_PLATFORM\u003dandroid-19",
       "-DANDROID_TOOLCHAIN\u003dclang",
       "-DANDROID_ARM_NEON\u003dTRUE",
       "-DANDROID_STL\u003dc++_static",
-      "-DPATH_TO_SUPERPOWERED:STRING\u003d/home/nayel/Desktop/Tajweed/app/./Superpowered"
+      "-DPATH_TO_SUPERPOWERED:STRING\u003d/home/nayel/StudioProjects/tajweed/app/./Superpowered"
     ],
     "buildTargetSet": [],
     "implicitBuildTargetSet": [],
@@ -123,7 +123,7 @@
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "cppFlagsList": [
       "-fsigned-char",
-      "-I/home/nayel/Desktop/Tajweed/app/./Superpowered"
+      "-I/home/nayel/StudioProjects/tajweed/app/./Superpowered"
     ],
     "isDebuggableEnabled": false,
     "module": {
@@ -134,12 +134,12 @@
         "ninjaExe": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja"
       },
       "cmakeToolchainFile": "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
-      "cxxFolder": "/home/nayel/Desktop/Tajweed/app/.cxx",
+      "cxxFolder": "/home/nayel/StudioProjects/tajweed/app/.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "/home/nayel/Desktop/Tajweed/app/build/intermediates",
-      "makeFile": "/home/nayel/Desktop/Tajweed/app/CMakeLists.txt",
-      "moduleBuildFile": "/home/nayel/Desktop/Tajweed/app/build.gradle",
-      "moduleRootFolder": "/home/nayel/Desktop/Tajweed/app",
+      "intermediatesFolder": "/home/nayel/StudioProjects/tajweed/app/build/intermediates",
+      "makeFile": "/home/nayel/StudioProjects/tajweed/app/CMakeLists.txt",
+      "moduleBuildFile": "/home/nayel/StudioProjects/tajweed/app/build.gradle",
+      "moduleRootFolder": "/home/nayel/StudioProjects/tajweed/app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -204,12 +204,12 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "21.3.6528147",
       "project": {
-        "compilerSettingsCacheFolder": "/home/nayel/Desktop/Tajweed/.cxx",
-        "cxxFolder": "/home/nayel/Desktop/Tajweed/.cxx",
+        "compilerSettingsCacheFolder": "/home/nayel/StudioProjects/tajweed/.cxx",
+        "cxxFolder": "/home/nayel/StudioProjects/tajweed/.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "/home/nayel/Desktop/Tajweed",
+        "rootBuildGradleFolder": "/home/nayel/StudioProjects/tajweed",
         "sdkFolder": "/home/nayel/Android/Sdk",
         "isPrefabEnabled": false
       },
@@ -226,7 +226,7 @@
         "SYSTEM": {}
       }
     },
-    "objFolder": "/home/nayel/Desktop/Tajweed/app/build/intermediates/cmake/release/obj",
+    "objFolder": "/home/nayel/StudioProjects/tajweed/app/build/intermediates/cmake/release/obj",
     "variantName": "release",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -234,8 +234,8 @@
       "X86",
       "X86_64"
     ],
-    "prefabDirectory": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/prefab",
+    "prefabDirectory": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/prefab/arm64-v8a"
+  "prefabFolder": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/prefab/arm64-v8a"
 }

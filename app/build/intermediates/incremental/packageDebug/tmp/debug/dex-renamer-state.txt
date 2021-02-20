@@ -1,4 +1,4 @@
-#Sat Feb 13 04:00:53 GST 2021
-base.0=/home/nayel/Desktop/Tajweed/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sat Feb 20 23:41:40 GST 2021
+base.0=/home/nayel/StudioProjects/tajweed/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
