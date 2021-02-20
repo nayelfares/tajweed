@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/nayel/Desktop/Tajweed/app/CMakeLists.txt",
+    "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
+    "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "EffectExample-Release-x86_64": {
+      "artifactName": "EffectExample",
+      "buildCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/Desktop/Tajweed/app/.cxx/cmake/release/x86_64\" EffectExample",
+      "abi": "x86_64",
+      "output": "/home/nayel/Desktop/Tajweed/app/build/intermediates/cmake/release/obj/x86_64/libEffectExample.so",
+      "runtimeFiles": []
+    }
+  }
+}

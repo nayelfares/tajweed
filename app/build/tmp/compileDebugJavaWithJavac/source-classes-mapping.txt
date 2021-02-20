@@ -1,0 +1,4 @@
+com/superpowered/effect/BuildConfig.java
+ com.superpowered.effect.BuildConfig
+com/superpowered/effect/MainActivity.java
+ com.superpowered.effect.MainActivity

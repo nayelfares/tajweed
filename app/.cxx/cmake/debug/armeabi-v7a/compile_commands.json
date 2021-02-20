@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DEffectExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fsigned-char -I/home/nayel/Desktop/Tajweed/app/./Superpowered -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/EffectExample.dir/src/main/cpp/EffectExample.cpp.o -c /home/nayel/Desktop/Tajweed/app/src/main/cpp/EffectExample.cpp",
+  "file": "/home/nayel/Desktop/Tajweed/app/src/main/cpp/EffectExample.cpp"
+},
+
+{
+  "directory": "/home/nayel/Desktop/Tajweed/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DEffectExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fsigned-char -I/home/nayel/Desktop/Tajweed/app/./Superpowered -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/EffectExample.dir/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o -c /home/nayel/Desktop/Tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp",
+  "file": "/home/nayel/Desktop/Tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp"
+}
+]

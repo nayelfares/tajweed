@@ -1,0 +1,3 @@
+/home/nayel/Desktop/Tajweed/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/nayel/Desktop/Tajweed/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/nayel/Desktop/Tajweed/app/.cxx/cmake/debug/x86/CMakeFiles/EffectExample.dir
