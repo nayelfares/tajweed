@@ -1,45 +1,45 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-25:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/d2d315c059005d7b9508a80fb31c0bae/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/ded419b75b72205bbc13cddf242c4295/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.core:core-ktx:1.5.0-beta01] /home/nayel/.gradle/caches/transforms-2/files-2.1/a526531d24c6151fe30bae02e3b9528c/jetified-core-ktx-1.5.0-beta01/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/8e498dbcf731c52db6532faefe686229/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ac217eb2f4bd77ff9c62a6871a7a4e05/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/c4742edf47aebdbbfbdac62d6e8cd086/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/65047a3c7eeb172fafe35fc6d35c41dd/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2b6e1fcbfc72b890d7d89e5097a64731/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/0626dd744b17252f6a12ec46c21be46c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2197ddebc699b25d0f63334a3b7dc3a3/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/512aad43fe5971632d2864a274169f49/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/f84c5ed4c95980d62b816ac763d3a181/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2c009108687cde4b0d7a7a6d0be5b948/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.5.0-beta01] /home/nayel/.gradle/caches/transforms-2/files-2.1/0424e6101a5dd4212059674bdccaef4c/core-1.5.0-beta01/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/6ea5665c14512d7783d4aa9be3b9c40f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/f0ad211b957d80079a6913456dbbe91b/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/8424f1b859eea502ecb63c53593989fa/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/0f425a1fe965c0267d4f25e2f5acf5f2/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/6266498d5d099ae42e119bba97eaf1e9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2cec8c5ec2900e8dc1daf6230f8e735a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/77d194b26185d662bd4e48de02337def/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/871053b03636ea795e5e694257e8e6d0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/7a5bae492d8521ce0b5612326ede9994/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/28ee9058a0bdb7eb4973d24159c0c4a0/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.2.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/4930e96d15bf7ddabbdbc1361d8282ae/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/313ab85dc4e00d70525f485f669c21e9/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/22c913f4a7c57e3f3df6dbd1e2b38844/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/f99add9c20c56961b4cf91b8b9be3678/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/0f6d098238cb96bb59364ae4af4d6d3e/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/c2d36e1e111fa92899b0a5796611b98b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/92da4c5b0b624b6dca2d6b04d8f02ec0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/9e32f45eaf01a591a5982bcfb7ff98fc/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/3a4dfdca17321d5f2042c56fabf077cc/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/c8e20d1ce23758386e57b9aa1d62ba41/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/fbfe08eba2f57d27c3ee49bcab10a582/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/abf1d8823c84d2e0b85132bf82353bfa/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ae176b7ea7a67484300d9712070ed804/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/859c8125caecd940fe002ad90d318883/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/7425b90e8c02400a64193f62f40b904c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/788f0629697d33ddc8ce8e1056886d53/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ab59680b91648fb4e09da9eccd4beabd/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/70690c502e6049e877119f87842fda6e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/7d283c7d8116e88e6053b865930f8c68/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/3baabff4b8b8d40d3df521e708f052ba/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:3:5-38
 		INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
 		INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-27:12
 		INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:1-27:12
 		INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:2:11-69
@@ -47,92 +47,100 @@ uses-permission#android.permission.RECORD_AUDIO
 ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:5:5-71
 	android:name
 		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:7:22-78
 application
-ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:7:5-23:19
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/ded419b75b72205bbc13cddf242c4295/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/ded419b75b72205bbc13cddf242c4295/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.5.0-beta01] /home/nayel/.gradle/caches/transforms-2/files-2.1/0424e6101a5dd4212059674bdccaef4c/core-1.5.0-beta01/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.5.0-beta01] /home/nayel/.gradle/caches/transforms-2/files-2.1/0424e6101a5dd4212059674bdccaef4c/core-1.5.0-beta01/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/6ea5665c14512d7783d4aa9be3b9c40f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/6ea5665c14512d7783d4aa9be3b9c40f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:9:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/28ee9058a0bdb7eb4973d24159c0c4a0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/28ee9058a0bdb7eb4973d24159c0c4a0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/abf1d8823c84d2e0b85132bf82353bfa/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/abf1d8823c84d2e0b85132bf82353bfa/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ae176b7ea7a67484300d9712070ed804/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ae176b7ea7a67484300d9712070ed804/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.5.0-beta01] /home/nayel/.gradle/caches/transforms-2/files-2.1/0424e6101a5dd4212059674bdccaef4c/core-1.5.0-beta01/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.2.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/abf1d8823c84d2e0b85132bf82353bfa/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:15:9-40
 activity#com.superpowered.effect.MainActivity
-ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:14:9-22:20
+ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:configChanges
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:16:13-74
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:18:13-74
 	android:name
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:15:13-41
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml:22:27-74
 uses-sdk
 INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
 INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/d2d315c059005d7b9508a80fb31c0bae/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/d2d315c059005d7b9508a80fb31c0bae/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/ded419b75b72205bbc13cddf242c4295/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/ded419b75b72205bbc13cddf242c4295/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.5.0-beta01] /home/nayel/.gradle/caches/transforms-2/files-2.1/a526531d24c6151fe30bae02e3b9528c/jetified-core-ktx-1.5.0-beta01/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.5.0-beta01] /home/nayel/.gradle/caches/transforms-2/files-2.1/a526531d24c6151fe30bae02e3b9528c/jetified-core-ktx-1.5.0-beta01/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/8e498dbcf731c52db6532faefe686229/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/8e498dbcf731c52db6532faefe686229/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ac217eb2f4bd77ff9c62a6871a7a4e05/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ac217eb2f4bd77ff9c62a6871a7a4e05/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/c4742edf47aebdbbfbdac62d6e8cd086/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/c4742edf47aebdbbfbdac62d6e8cd086/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/65047a3c7eeb172fafe35fc6d35c41dd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/65047a3c7eeb172fafe35fc6d35c41dd/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2b6e1fcbfc72b890d7d89e5097a64731/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2b6e1fcbfc72b890d7d89e5097a64731/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/0626dd744b17252f6a12ec46c21be46c/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/0626dd744b17252f6a12ec46c21be46c/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2197ddebc699b25d0f63334a3b7dc3a3/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2197ddebc699b25d0f63334a3b7dc3a3/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/512aad43fe5971632d2864a274169f49/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/512aad43fe5971632d2864a274169f49/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/f84c5ed4c95980d62b816ac763d3a181/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/f84c5ed4c95980d62b816ac763d3a181/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2c009108687cde4b0d7a7a6d0be5b948/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2c009108687cde4b0d7a7a6d0be5b948/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.5.0-beta01] /home/nayel/.gradle/caches/transforms-2/files-2.1/0424e6101a5dd4212059674bdccaef4c/core-1.5.0-beta01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.5.0-beta01] /home/nayel/.gradle/caches/transforms-2/files-2.1/0424e6101a5dd4212059674bdccaef4c/core-1.5.0-beta01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/6ea5665c14512d7783d4aa9be3b9c40f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/6ea5665c14512d7783d4aa9be3b9c40f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/f0ad211b957d80079a6913456dbbe91b/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/f0ad211b957d80079a6913456dbbe91b/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/8424f1b859eea502ecb63c53593989fa/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/8424f1b859eea502ecb63c53593989fa/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/0f425a1fe965c0267d4f25e2f5acf5f2/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/0f425a1fe965c0267d4f25e2f5acf5f2/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/6266498d5d099ae42e119bba97eaf1e9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/6266498d5d099ae42e119bba97eaf1e9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2cec8c5ec2900e8dc1daf6230f8e735a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/2cec8c5ec2900e8dc1daf6230f8e735a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/77d194b26185d662bd4e48de02337def/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/77d194b26185d662bd4e48de02337def/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/871053b03636ea795e5e694257e8e6d0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/871053b03636ea795e5e694257e8e6d0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/7a5bae492d8521ce0b5612326ede9994/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/7a5bae492d8521ce0b5612326ede9994/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/28ee9058a0bdb7eb4973d24159c0c4a0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayel/.gradle/caches/transforms-2/files-2.1/28ee9058a0bdb7eb4973d24159c0c4a0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/4930e96d15bf7ddabbdbc1361d8282ae/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/4930e96d15bf7ddabbdbc1361d8282ae/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/313ab85dc4e00d70525f485f669c21e9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/313ab85dc4e00d70525f485f669c21e9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/22c913f4a7c57e3f3df6dbd1e2b38844/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/22c913f4a7c57e3f3df6dbd1e2b38844/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/f99add9c20c56961b4cf91b8b9be3678/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/f99add9c20c56961b4cf91b8b9be3678/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/0f6d098238cb96bb59364ae4af4d6d3e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/0f6d098238cb96bb59364ae4af4d6d3e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/c2d36e1e111fa92899b0a5796611b98b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/c2d36e1e111fa92899b0a5796611b98b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/92da4c5b0b624b6dca2d6b04d8f02ec0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/92da4c5b0b624b6dca2d6b04d8f02ec0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/9e32f45eaf01a591a5982bcfb7ff98fc/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/9e32f45eaf01a591a5982bcfb7ff98fc/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/3a4dfdca17321d5f2042c56fabf077cc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/3a4dfdca17321d5f2042c56fabf077cc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/c8e20d1ce23758386e57b9aa1d62ba41/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/c8e20d1ce23758386e57b9aa1d62ba41/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/fbfe08eba2f57d27c3ee49bcab10a582/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/fbfe08eba2f57d27c3ee49bcab10a582/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/abf1d8823c84d2e0b85132bf82353bfa/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/abf1d8823c84d2e0b85132bf82353bfa/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ae176b7ea7a67484300d9712070ed804/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ae176b7ea7a67484300d9712070ed804/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/859c8125caecd940fe002ad90d318883/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/859c8125caecd940fe002ad90d318883/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/7425b90e8c02400a64193f62f40b904c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/7425b90e8c02400a64193f62f40b904c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/788f0629697d33ddc8ce8e1056886d53/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/788f0629697d33ddc8ce8e1056886d53/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ab59680b91648fb4e09da9eccd4beabd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/ab59680b91648fb4e09da9eccd4beabd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/70690c502e6049e877119f87842fda6e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/70690c502e6049e877119f87842fda6e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/7d283c7d8116e88e6053b865930f8c68/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/7d283c7d8116e88e6053b865930f8c68/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/3baabff4b8b8d40d3df521e708f052ba/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nayel/.gradle/caches/transforms-2/files-2.1/3baabff4b8b8d40d3df521e708f052ba/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
 INJECTED from /home/nayel/StudioProjects/tajweed/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

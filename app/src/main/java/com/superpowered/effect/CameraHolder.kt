@@ -170,7 +170,7 @@ class CameraHolder(val context: Context,val mTextureView:TextureView,val mVideoF
         try {
             setupMediaRecorder()
             val surfaceTexture = mTextureView.surfaceTexture
-            surfaceTexture.setDefaultBufferSize(mPreviewSize!!.width, mPreviewSize!!.height)
+            surfaceTexture.setDefaultBufferSize(640, 640)
             val previewSurface = Surface(surfaceTexture)
             val recordSurface = mMediaRecorder.surface
             mCaptureRequestBuilder = mCameraDevice!!.createCaptureRequest(CameraDevice.TEMPLATE_RECORD)

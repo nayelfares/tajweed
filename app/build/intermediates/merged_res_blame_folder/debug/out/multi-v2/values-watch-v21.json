@@ -4,7 +4,7 @@
             "outputFile": "/home/nayel/StudioProjects/tajweed/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "/home/nayel/.gradle/caches/transforms-2/files-2.1/d2d315c059005d7b9508a80fb31c0bae/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
+                    "source": "/home/nayel/.gradle/caches/transforms-2/files-2.1/7a5bae492d8521ce0b5612326ede9994/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

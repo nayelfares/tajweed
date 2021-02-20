@@ -14,7 +14,7 @@ arguments :
 -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/nayel/StudioProjects/tajweed/app/build/intermediates/cmake/release/obj/x86_64
 -DCMAKE_MAKE_PROGRAM=/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
 -DCMAKE_SYSTEM_NAME=Android
--DCMAKE_SYSTEM_VERSION=19
+-DCMAKE_SYSTEM_VERSION=21
 -DANDROID_PLATFORM=android-19
 -DANDROID_TOOLCHAIN=clang
 -DANDROID_ARM_NEON=TRUE
