@@ -1,21 +1,23 @@
 package com.superpowered.effect
 
 import android.Manifest
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-import com.superpowered.effect.R
-import androidx.core.content.ContextCompat
+import android.content.Intent
 import android.content.pm.PackageManager
-import androidx.core.app.ActivityCompat
-import android.widget.Toast
 import android.media.AudioManager
+import android.os.Bundle
 import android.view.View
 import android.widget.Button
+import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
+import androidx.core.app.ActivityCompat
+import androidx.core.content.ContextCompat
+import com.arthenica.mobileffmpeg.FFmpeg
+import kotlinx.android.synthetic.main.activity_main.*
 import java.io.File
 import java.io.IOException
 import java.text.SimpleDateFormat
 import java.util.*
-import kotlinx.android.synthetic.main.activity_main.*
+
 
 class MainActivity : AppCompatActivity() {
     private var playing = false
@@ -29,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         createVideoFileName()
-        cameraHolder=CameraHolder(this,textureView,mVideoFileName)
+        cameraHolder=CameraHolder(this, textureView, mVideoFileName)
         // Checking permissions.
         val permissions = arrayOf(
                 Manifest.permission.RECORD_AUDIO
@@ -48,6 +50,12 @@ class MainActivity : AppCompatActivity() {
                 cameraHolder.mMediaRecorder.stop()
                 cameraHolder.mMediaRecorder.reset()
                 cameraHolder.startPreview()
+                FFmpeg.execute("-y -i $mVideoFileName ${mVideoFileName.replace(".mp4","1.wav")}")
+                FFmpeg.execute("-y -i $mVideoFileName -c copy -an ${mVideoFileName.replace(".mp4","1.mp4")}")
+                val intent= Intent(this,Preview::class.java)
+                intent.putExtra("video",mVideoFileName.replace(".mp4","1.mp4"))
+                intent.putExtra("audio",mVideoFileName.replace(".mp4","1.wav"))
+                startActivity(intent)
             } else {
                 mIsRecording = true
                 cameraHolder.startRecord()

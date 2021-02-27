@@ -1,4 +1,4 @@
 # ninja log v5
-0	10991	1613850830	CMakeFiles/EffectExample.dir/src/main/cpp/EffectExample.cpp.o	3e299dcb38b99f75
-50	10991	1613850830	CMakeFiles/EffectExample.dir/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o	77c534d579c9193
-10991	15154	1613850834	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libEffectExample.so	ec020adb1e919224
+0	1866	1614377070	CMakeFiles/EffectExample.dir/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o	77c534d579c9193
+0	2446	1614377071	CMakeFiles/EffectExample.dir/src/main/cpp/EffectExample.cpp.o	3e299dcb38b99f75
+2446	3159	1614377072	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libEffectExample.so	ec020adb1e919224
