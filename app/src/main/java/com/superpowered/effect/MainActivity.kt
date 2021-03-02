@@ -56,6 +56,7 @@ class MainActivity : AppCompatActivity() {
                 intent.putExtra("video",mVideoFileName.replace(".mp4","1.mp4"))
                 intent.putExtra("audio",mVideoFileName.replace(".mp4","1.wav"))
                 startActivity(intent)
+                finish()
             } else {
                 mIsRecording = true
                 cameraHolder.startRecord()
@@ -146,7 +147,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    @Throws(IOException::class)
     private fun createVideoFileName(): File {
         val timestamp = SimpleDateFormat("yyyyMMdd_HHmmss").format(Date())
         val prepend = "VIDEO_" + timestamp + "_"

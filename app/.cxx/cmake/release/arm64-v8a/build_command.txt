@@ -1,26 +1,26 @@
-                Executable : /home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+                Executable : /Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
 arguments : 
--H/home/nayel/StudioProjects/tajweed/app
--DCMAKE_CXX_FLAGS=-fsigned-char -I/home/nayel/StudioProjects/tajweed/app/./Superpowered
+-H/Volumes/Data/tajweed/app
+-DCMAKE_CXX_FLAGS=-fsigned-char -I/Volumes/Data/tajweed/app/./Superpowered
 -DCMAKE_C_FLAGS=-O3 -fsigned-char
--DCMAKE_FIND_ROOT_PATH=/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/prefab/arm64-v8a/prefab
+-DCMAKE_FIND_ROOT_PATH=/Volumes/Data/tajweed/app/.cxx/cmake/release/prefab/arm64-v8a/prefab
 -DCMAKE_BUILD_TYPE=Release
--DCMAKE_TOOLCHAIN_FILE=/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake
+-DCMAKE_TOOLCHAIN_FILE=/Users/nayelfares/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
 -DANDROID_ABI=arm64-v8a
--DANDROID_NDK=/home/nayel/Android/Sdk/ndk/21.3.6528147
+-DANDROID_NDK=/Users/nayelfares/Library/Android/sdk/ndk-bundle
 -DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
--DCMAKE_ANDROID_NDK=/home/nayel/Android/Sdk/ndk/21.3.6528147
+-DCMAKE_ANDROID_NDK=/Users/nayelfares/Library/Android/sdk/ndk-bundle
 -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/nayel/StudioProjects/tajweed/app/build/intermediates/cmake/release/obj/arm64-v8a
--DCMAKE_MAKE_PROGRAM=/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Volumes/Data/tajweed/app/build/intermediates/cmake/release/obj/arm64-v8a
+-DCMAKE_MAKE_PROGRAM=/Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
 -DCMAKE_SYSTEM_NAME=Android
 -DCMAKE_SYSTEM_VERSION=24
 -DANDROID_PLATFORM=android-19
 -DANDROID_TOOLCHAIN=clang
 -DANDROID_ARM_NEON=TRUE
 -DANDROID_STL=c++_static
--DPATH_TO_SUPERPOWERED:STRING=/home/nayel/StudioProjects/tajweed/app/./Superpowered
--B/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/arm64-v8a
+-DPATH_TO_SUPERPOWERED:STRING=/Volumes/Data/tajweed/app/./Superpowered
+-B/Volumes/Data/tajweed/app/.cxx/cmake/release/arm64-v8a
 -GNinja
 jvmArgs : 
 

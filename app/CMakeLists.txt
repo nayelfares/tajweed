@@ -22,3 +22,19 @@ target_link_libraries (
         OpenSLES
         ${PATH_TO_SUPERPOWERED}/libSuperpoweredAndroid${ANDROID_ABI}.a
 )
+# compile player example to a native library
+add_library (
+        PlayerExample
+        SHARED
+        src/main/cpp/PlayerExample.cpp
+        ${PATH_TO_SUPERPOWERED}/OpenSource/SuperpoweredAndroidAudioIO.cpp
+)
+
+# link the native library against the following libraries
+target_link_libraries (
+        PlayerExample
+        log
+        android
+        OpenSLES
+        ${PATH_TO_SUPERPOWERED}/libSuperpoweredAndroid${ANDROID_ABI}.a
+)

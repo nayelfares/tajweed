@@ -1,3 +1,4 @@
-/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
-/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/EffectExample.dir
+/Volumes/Data/tajweed/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Volumes/Data/tajweed/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/Data/tajweed/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/PlayerExample.dir
+/Volumes/Data/tajweed/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/EffectExample.dir

@@ -1,13 +1,25 @@
 [
 {
-  "directory": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/x86_64",
-  "command": "/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DEffectExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/home/nayel/StudioProjects/tajweed/app/./Superpowered -O2 -DNDEBUG  -fPIC   -o CMakeFiles/EffectExample.dir/src/main/cpp/EffectExample.cpp.o -c /home/nayel/StudioProjects/tajweed/app/src/main/cpp/EffectExample.cpp",
-  "file": "/home/nayel/StudioProjects/tajweed/app/src/main/cpp/EffectExample.cpp"
+  "directory": "/Volumes/Data/tajweed/app/.cxx/cmake/release/x86_64",
+  "command": "/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DPlayerExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/Volumes/Data/tajweed/app/./Superpowered -O2 -DNDEBUG  -fPIC   -o CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o -c /Volumes/Data/tajweed/app/src/main/cpp/PlayerExample.cpp",
+  "file": "/Volumes/Data/tajweed/app/src/main/cpp/PlayerExample.cpp"
 },
 
 {
-  "directory": "/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/x86_64",
-  "command": "/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nayel/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DEffectExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/home/nayel/StudioProjects/tajweed/app/./Superpowered -O2 -DNDEBUG  -fPIC   -o CMakeFiles/EffectExample.dir/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o -c /home/nayel/StudioProjects/tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp",
-  "file": "/home/nayel/StudioProjects/tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp"
+  "directory": "/Volumes/Data/tajweed/app/.cxx/cmake/release/x86_64",
+  "command": "/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DPlayerExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/Volumes/Data/tajweed/app/./Superpowered -O2 -DNDEBUG  -fPIC   -o CMakeFiles/PlayerExample.dir/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o -c /Volumes/Data/tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp",
+  "file": "/Volumes/Data/tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp"
+},
+
+{
+  "directory": "/Volumes/Data/tajweed/app/.cxx/cmake/release/x86_64",
+  "command": "/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DEffectExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/Volumes/Data/tajweed/app/./Superpowered -O2 -DNDEBUG  -fPIC   -o CMakeFiles/EffectExample.dir/src/main/cpp/EffectExample.cpp.o -c /Volumes/Data/tajweed/app/src/main/cpp/EffectExample.cpp",
+  "file": "/Volumes/Data/tajweed/app/src/main/cpp/EffectExample.cpp"
+},
+
+{
+  "directory": "/Volumes/Data/tajweed/app/.cxx/cmake/release/x86_64",
+  "command": "/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nayelfares/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DEffectExample_EXPORTS -I../../../../src/main/cpp -I../../../.././Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/Volumes/Data/tajweed/app/./Superpowered -O2 -DNDEBUG  -fPIC   -o CMakeFiles/EffectExample.dir/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o -c /Volumes/Data/tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp",
+  "file": "/Volumes/Data/tajweed/app/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp"
 }
 ]

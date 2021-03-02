@@ -1,19 +1,26 @@
 {
   "buildFiles": [
-    "/home/nayel/StudioProjects/tajweed/app/CMakeLists.txt",
-    "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
-    "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake"
+    "/Volumes/Data/tajweed/app/CMakeLists.txt",
+    "/Users/nayelfares/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/nayelfares/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake"
   ],
   "cleanCommands": [
-    "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/debug/x86\" clean"
+    "/Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/Data/tajweed/app/.cxx/cmake/debug/x86\" clean"
   ],
-  "buildTargetsCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Volumes/Data/tajweed/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
+    "PlayerExample-Debug-x86": {
+      "artifactName": "PlayerExample",
+      "buildCommand": "/Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/Data/tajweed/app/.cxx/cmake/debug/x86\" PlayerExample",
+      "abi": "x86",
+      "output": "/Volumes/Data/tajweed/app/build/intermediates/cmake/debug/obj/x86/libPlayerExample.so",
+      "runtimeFiles": []
+    },
     "EffectExample-Debug-x86": {
       "artifactName": "EffectExample",
-      "buildCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/debug/x86\" EffectExample",
+      "buildCommand": "/Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/Data/tajweed/app/.cxx/cmake/debug/x86\" EffectExample",
       "abi": "x86",
-      "output": "/home/nayel/StudioProjects/tajweed/app/build/intermediates/cmake/debug/obj/x86/libEffectExample.so",
+      "output": "/Volumes/Data/tajweed/app/build/intermediates/cmake/debug/obj/x86/libEffectExample.so",
       "runtimeFiles": []
     }
   }

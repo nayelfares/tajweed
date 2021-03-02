@@ -1,3 +1,4 @@
-/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
-/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/x86_64/CMakeFiles/edit_cache.dir
-/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/release/x86_64/CMakeFiles/EffectExample.dir
+/Volumes/Data/tajweed/app/.cxx/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/Volumes/Data/tajweed/app/.cxx/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/Volumes/Data/tajweed/app/.cxx/cmake/release/x86_64/CMakeFiles/PlayerExample.dir
+/Volumes/Data/tajweed/app/.cxx/cmake/release/x86_64/CMakeFiles/EffectExample.dir

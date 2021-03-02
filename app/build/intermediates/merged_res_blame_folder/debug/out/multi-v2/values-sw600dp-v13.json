@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/nayel/StudioProjects/tajweed/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Volumes/Data/tajweed/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/nayel/.gradle/caches/transforms-2/files-2.1/7a5bae492d8521ce0b5612326ede9994/appcompat-1.1.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/Users/nayelfares/.gradle/caches/transforms-2/files-2.1/7a5bae492d8521ce0b5612326ede9994/appcompat-1.1.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

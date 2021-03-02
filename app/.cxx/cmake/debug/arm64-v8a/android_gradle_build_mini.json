@@ -1,19 +1,26 @@
 {
   "buildFiles": [
-    "/home/nayel/StudioProjects/tajweed/app/CMakeLists.txt",
-    "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
-    "/home/nayel/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake"
+    "/Volumes/Data/tajweed/app/CMakeLists.txt",
+    "/Users/nayelfares/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/nayelfares/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake"
   ],
   "cleanCommands": [
-    "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/debug/arm64-v8a\" clean"
+    "/Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/Data/tajweed/app/.cxx/cmake/debug/arm64-v8a\" clean"
   ],
-  "buildTargetsCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Volumes/Data/tajweed/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "EffectExample-Debug-arm64-v8a": {
       "artifactName": "EffectExample",
-      "buildCommand": "/home/nayel/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/nayel/StudioProjects/tajweed/app/.cxx/cmake/debug/arm64-v8a\" EffectExample",
+      "buildCommand": "/Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/Data/tajweed/app/.cxx/cmake/debug/arm64-v8a\" EffectExample",
       "abi": "arm64-v8a",
-      "output": "/home/nayel/StudioProjects/tajweed/app/build/intermediates/cmake/debug/obj/arm64-v8a/libEffectExample.so",
+      "output": "/Volumes/Data/tajweed/app/build/intermediates/cmake/debug/obj/arm64-v8a/libEffectExample.so",
+      "runtimeFiles": []
+    },
+    "PlayerExample-Debug-arm64-v8a": {
+      "artifactName": "PlayerExample",
+      "buildCommand": "/Users/nayelfares/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/Data/tajweed/app/.cxx/cmake/debug/arm64-v8a\" PlayerExample",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/Data/tajweed/app/build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so",
       "runtimeFiles": []
     }
   }
